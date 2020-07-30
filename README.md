@@ -20,13 +20,3 @@ dona chica ca ca adimirou-se se do barro do berro que o gato deu MIIAAAUUUU!!!
 
 :wink: :cry: :smile: :heart:
 
-:-)
-
-// ...
-// initialize
-
-var twemoji = require('twemoji')
-
-md.renderer.rules.emoji = function(token, idx) {
-  return twemoji.parse(token[idx].content);
-};
