@@ -12,6 +12,7 @@ dona chica ca ca adimirou-se se do barro do berro que o gato deu MIIAAAUUUU!!!
 
 # images
 
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg =200x100 "The Stormtroopocat")
+<img src="https://octodex.github.com/images/stormtroopocat.jpg" alt="The Stormtroopocat" width="200" height="100"/>
+
 
 
