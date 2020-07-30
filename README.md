@@ -27,3 +27,7 @@ dona chica ca ca adimirou-se se do barro do berro que o gato deu MIIAAAUUUU!!!
 
 [my linkedin](https://www.linkedin.com/in/esther-campos-57669a1b0/ "my linkedin")
 
+## photo
+
+<img src="https://kikacastro.files.wordpress.com/2017/06/galinha-pintadinha-2.png" alt="galinha pintadinha" width="250" height="130"/>
+
