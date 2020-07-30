@@ -16,3 +16,8 @@ dona chica ca ca adimirou-se se do barro do berro que o gato deu MIIAAAUUUU!!!
 
 
 
+# emojis
+
+:wink: :cry: :smile: :heart:
+
+:-) <3 8-)
